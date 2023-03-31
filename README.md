@@ -1,2 +1,2 @@
 ### Projects
-Collections of projects I on my own or through learning platforms online. :-)
+Collections of projects I did on my own or through learning platforms online. :-)
